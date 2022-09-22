@@ -9,10 +9,14 @@ Third and last one is Super Admin who can upload, edit, activate and delete the 
 
 ## Installation of Project
 
-``` python3 -m venv env
+``` 
+    python3 -m venv env
     source env/bin/activate
-    pip3 install -r requirements.txt ```
+    pip3 install -r requirements.txt 
+```
     
 ## Running the application
-``` python3 app.py ```
+``` 
+    python3 app.py 
+```
 
